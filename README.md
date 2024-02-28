@@ -1,8 +1,9 @@
+![MasterHead](https://github.com/PreetMongaPM/PreetMongaPM/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Preet Monga</h1>
+<img align="right" alt="Coding" width="200" src="https://github.com/PreetMongaPM/PreetMongaPM/blob/main/Coder.gif"/>
 <h3 align="center">I am a college student from India pursuing my Bachelor's Degree with specialization in DevOps, who likes to explore various fields in the tech industry. A curious being who likes to know the reason behind everything happening around me and how I can contribute and modify it to make it better.</h3>
 <img align="right" alt="Coding" width="400" src="https://buggymind.com/wp-content/uploads/2024/01/image-7.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetmongapm&label=Profile%20views&color=0e75b6&style=flat" alt="preetmongapm" /> </p>
-
 <p align="left"> <a href="https://twitter.com/preetmongapm" target="blank"><img src="https://img.shields.io/twitter/follow/preetmongapm?logo=twitter&style=for-the-badge" alt="preetmongapm" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend Development**
