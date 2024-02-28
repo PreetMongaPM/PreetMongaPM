@@ -15,6 +15,9 @@
 - 📫 How to reach me **preetmongapm1@gmail.com**
 
 - ⚡ Fun fact : **I am a C++ lover who ain't gonna cheat her.**
+<h3 align="left">My LeetCode Journey: </h3>
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/PreetMongaPM)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
