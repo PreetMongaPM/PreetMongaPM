@@ -94,7 +94,7 @@ portfolio: https://preetmonga.dev
 
 | Platform | Handle | Achievement |
 |---|---|---|
-| 🟡 LeetCode | [preetmongapm](https://leetcode.com/preetmongapm) | Rating **1798** · Top 7% Worldwide · 1000+ problems |
+| 🟡 LeetCode | [preetmongapm](https://leetcode.com/preetmongapm) | Rating **1805** · Top 7% Worldwide · 1100+ problems |
 | 🔵 Codeforces | [preetmongapm](https://codeforces.com/profile/preetmongapm) | Active participant |
 | 🟤 CodeChef | [preet_monga](https://www.codechef.com/users/preet_monga) | Active participant |
 | 🟢 GeeksForGeeks | [preet_monga_pm](https://www.geeksforgeeks.org/profile/preet_monga_pm) | Active participant |
